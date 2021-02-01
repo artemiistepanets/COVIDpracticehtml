@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <style>p.uppercase {
+  text-transform: uppercase;
+}</style>
+      <meta charset ="utf-8">
+      <title> Corona-Virus Precautions</title>
+  </head>
+  <body>
+      <h1><center>AVOIDING COVID-19: Necessary Precautions</center></h1>
+      <center><img src="https://www.cdc.gov/coronavirus/mers/images/nCoV-2.jpg" alt="Image of COVID-19" width= "200"></center>
+      <p> Throughout the past few months, humans all around the globe have been getting infected and speading the disease.
+           This epedemic has caused a global panic about the possible deaths and even end of the world; however,
+           this scarce can be <strong>avoided by <em>taking certain measures, which will result in less infections and deaths.</em></strong>
+           "Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) is the name given to the 2019 novel coronavirus. COVID-19 is the name given to the disease associated with the virus.
+           SARS-CoV-2 is a new strain of coronavirus that has not been previously identified in humans." In order to keep yourself and other safe, please follow the simple steps below.
+
+      </p>
+      <h3>Necessary To Do Steps</h3>
+      <ul>
+        <li> Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub</li><br>
+        <li>Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze</li><br>
+        <li>Avoid close contact (1 meter or 3 feet) with people who are unwell</li>
+        <li><p class="uppercase"><strong>Stay home and self-isolate from others in the household if you feel unwell</strong></p></li>
+        <li> Do not touch your eyes, nose, or mouth if your hands are not clean</li>
+      </ul>
+  </body>
+</html>
